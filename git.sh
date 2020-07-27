@@ -5,6 +5,7 @@ public class gitdemo
   {
 	System.out.println("Hello Master branch");
 	 System.out.println("Hello develop branch");
+	System.out.println("Hello feature branch");
 
 }
 }
